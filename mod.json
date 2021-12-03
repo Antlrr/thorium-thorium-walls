@@ -5,5 +5,5 @@
    "description": "makes thorium walls pink",
    "version": "1.0",
    "minGameVersion": "130",
-   "hidden": "false"
+   "hidden": "true"
 }
