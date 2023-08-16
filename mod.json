@@ -4,6 +4,6 @@
    "author": "Antlrr",
    "description": "makes thorium walls pink",
    "version": "1.0",
-   "minGameVersion": "130",
+   "minGameVersion": "136",
    "hidden": "true"
 }
