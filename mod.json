@@ -2,7 +2,7 @@
    "name": "thoriumThoriumWalls",
    "displayName": "Thorium Thorium Walls", 
    "author": "Antlrr",
-   "description": "makes thorium walls pink",
+   "description": "makes thorium blocks pink",
    "version": "1.0",
    "minGameVersion": "136",
    "hidden": "true"
